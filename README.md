@@ -1,0 +1,1 @@
+Basamakların toplamını yazdıran program
